@@ -1,2 +1,1 @@
-My first readme
-Created my first project
+My edited first rename
